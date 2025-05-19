@@ -8,8 +8,7 @@
   - [言語](#言語)
   - [フレームワーク・ライブラリ](#フレームワークライブラリ)
   - [RDB/NoSQL](#rdbnosql)
-  - [クラウド](#クラウド)
-    - [AWS](#aws)
+  - [AWS](#aws)
   - [Azure](#azure)
   - [SaaS/PaaS](#saaspaas)
   - [プロジェクト管理/チャット](#プロジェクト管理チャット)
@@ -63,9 +62,7 @@ ASP.NET（MVC、Web API、Web Forms）・React・Vue.js・Ruby on Rails・CakePH
 
 SQL Server・MySQL・PostgreSQL・Oracle・MongoDB・Amazon DynamoDB・Azure Cosmos DB
 
-### クラウド
-
-#### AWS
+### AWS
 
 RDS・ECR・ECS・EC2・Lambda・SES・SQS・S3・CloudFront・Secrets Manager
 
