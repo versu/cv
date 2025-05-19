@@ -103,28 +103,15 @@ Docker・OpenAPI・Jenkins・Apache Airflow
 
 【言語・フレームワーク】
 
-- ASP.NET Web API
-- ASP.NET MVC
-- ASP.NET Web Forms
-- Vue.js
+ASP.NET Web API・ASP.NET MVC・ASP.NET Web Forms・Vue.js
 
 【インフラ】
 
-- IIS（EC2上のWindows Server）
-- RDS(SQL Server)
-- S3
-- SQS
-- CloudFront
+IIS（EC2上のWindows Server）・RDS(SQL Server)・S3・SQS・CloudFront
 
 【ツール】
 
-- Visual Studio
-- Visual Studio Code
-- GitHub
-- Git Bucket
-- Docker
-- Asana
-- Chatwork
+Visual Studio・Visual Studio Code・GitHub・Git Bucket・Docker・Asana・Chatwork
 
 【プロダクト概要】
 
@@ -181,27 +168,15 @@ Docker・OpenAPI・Jenkins・Apache Airflow
 
 【言語・フレームワーク】
 
-- ASP.NET Web API
-- Python
+ASP.NET Web API・Python
 
 【インフラ】
 
-- Azure
-  - Kubernetes Service
-  - Container Instances
-  - Container Registry
-  - Web Apps
-  - Blob Storage
-  - Functions
-  - SQL Database
+Azure Kubernetes Service・Azure Container Instances・Azure Container Registry・Azure Web Apps・Azure Blob Storage・Azure Functions・Azure SQL Database
 
 【ツール】
 
-- Visual Studio Code
-- Azure DevOps
-- Microsoft Teams
-- Docker
-- Apache Airflow
+Visual Studio Code・Azure DevOps・Microsoft Teams・Docker・Apache Airflow
 
 【プロダクト概要】
 
@@ -211,6 +186,7 @@ Docker・OpenAPI・Jenkins・Apache Airflow
 従来、複数のシステムや紙資料を突き合わせて行っていた情報確認作業を効率化し、意思決定の迅速化と運航リスクの低減を実現。
 
 【担当業務概要】
+
 1stリリース直後の保守・追加開発フェーズからバックエンドエンジニアとしてプロジェクトに参画。  
 2週間スプリントのスクラム開発体制のもと、既存機能の保守運用、新規機能の設計・実装、一部のインフラ移行対応等を担当。  
 航空運航管理の専門ドメイン理解や、初めての本格的なAzure基盤での開発にも短期間でキャッチアップし、開発に貢献。
@@ -244,27 +220,15 @@ Docker・OpenAPI・Jenkins・Apache Airflow
 
 【言語・フレームワーク】
 
-- ASP.NET Web API
-- Python
+ASP.NET Web API・Python
 
 【インフラ】
 
-- Azure
-  - Container Apps
-  - Container Instances
-  - Container Registry
-  - API Management
-  - Blob Storage
-  - SQL Database
+Azure Container Apps・Azure Container Instances・Azure Container Registry・Azure API Management・Azure Blob Storage・Azure SQL Database
 
 【ツール】
 
-- Visual Studio Code
-- Azure DevOps
-- Microsoft Teams
-- Docker
-- WSL2
-- Apache Airflow
+Visual Studio Code・Azure DevOps・Microsoft Teams・Docker・WSL2・Apache Airflow
 
 【プロダクト概要】
 
@@ -321,23 +285,15 @@ PJのキックオフからバックエンドエンジニアとして参画し、
 
 【言語・フレームワーク】
 
-- ASP.NET Web API
-- React
-- TypeScript
-- Ant Design
+ASP.NET Web API・React・TypeScript・Ant Design
 
 【インフラ】
 
-- IIS（EC2上のWindows Server）
-- SQL Server
+IIS（EC2上のWindows Server）・SQL Server
 
 【ツール】
 
-- Visual Studio
-- Docker
-- WSL2
-- Microsoft Teams
-- Backlog
+Visual Studio・Docker・WSL2・Microsoft Teams・Backlog
 
 【プロダクト概要】
 
@@ -379,26 +335,15 @@ Excel形式で管理されている製造依頼データを取り込み、印刷
 
 【言語・フレームワーク】
 
-- ASP.NET Web API
-- Windows Service(.NET Core Generic Host)
-- React
-- Remix（SPA）
+ASP.NET Web API・Windows Service(.NET Core Generic Host)・React・Remix（SPA）
 
 【インフラ】
 
-- IIS（EC2上のWindows Server）
-- SQL Server
-- S3
+IIS（EC2上のWindows Server）・SQL Server・S3
 
 【ツール】
 
-- Visual Studio
-- Visual Studio Code
-- Docker
-- WSL2
-- Microsoft Teams（社内用チャット）
-- Slack（開発パートナー用チャット）
-- Backlog
+Visual Studio・Visual Studio Code・Docker・WSL2・Microsoft Teams（社内用チャット）・Slack（開発パートナー用チャット）・Backlog
 
 【プロダクト概要】
 
@@ -447,23 +392,15 @@ PJのキックオフから新規開発チームの主要メンバーとして参
 
 【言語・フレームワーク】
 
-- ASP.NET Core MVC
-- ASP.NET Web API
-- React
-- TypeScript
+ASP.NET Core MVC・ASP.NET Web API・React・TypeScript
 
 【インフラ】
 
-- IIS（Windows Server）
-- SQL Server
+IIS（Windows Server）・SQL Server
 
 【ツール】
 
-- Visual Studio
-- Visual Studio Code
-- Microsoft Teams（社内用チャット）
-- Slack（開発パートナー用チャット）
-- Backlog
+Visual Studio・Visual Studio Code・Microsoft Teams（社内用チャット）・Slack（開発パートナー用チャット）・Backlog
 
 【プロダクト概要】
 
@@ -513,24 +450,15 @@ PJのキックオフから新規開発チームの主要メンバーとして参
 
 【言語・フレームワーク】
 
-- ASP.NET Web API
-- React
-- JavaScript
-- Python
+ASP.NET Web API・React・JavaScript・Python
 
 【インフラ】
 
-- IIS（Windows Server）
-- SQL Server
-- Oracle
+IIS（Windows Server）・SQL Server・Oracle
 
 【ツール】
 
-- Visual Studio
-- Visual Studio Code
-- Microsoft Teams（社内用チャット）
-- Slack（開発パートナー用チャット）
-- Backlog
+Visual Studio・Visual Studio Code・Microsoft Teams（社内用チャット）・Slack（開発パートナー用チャット）・Backlog
 
 【プロダクト概要】
 
@@ -569,23 +497,15 @@ PJのキックオフから新規開発チームの主要メンバーとして参
 
 【言語・フレームワーク】
 
-- ASP.NET MVC
-- ASP.NET Web API
-- JavaScript
+ASP.NET MVC・ASP.NET Web API・JavaScript
 
 【インフラ】
 
-- IIS（EC2上のWindows Server）
-- SQL Server
-- S3
+IIS（EC2上のWindows Server）・SQL Server・S3
 
 【ツール】
 
-- Visual Studio
-- Visual Studio Code
-- Microsoft Teams（社内用チャット）
-- Slack（開発パートナー用チャット）
-- Backlog
+Visual Studio・Visual Studio Code・Microsoft Teams（社内用チャット）・Slack（開発パートナー用チャット）・Backlog
 
 【プロダクト概要】
 
@@ -625,17 +545,15 @@ PJのキックオフから新規開発チームの主要メンバーとして参
 
 【言語・フレームワーク】
 
-- Ruby on Rails
+Ruby on Rails
 
 【インフラ】
 
-- nginx
+Nginx
 
 【ツール】
 
-- Visual Studio Code
-- Microsoft Teams
-- Backlog
+Visual Studio Code・Microsoft Teams・Backlog
 
 【プロダクト概要】
 
@@ -666,19 +584,15 @@ PJの途中から開発メンバーとして参画し、新規機能の設計、
 
 【言語・フレームワーク】
 
-- Cake PHP
+Cake PHP
 
 【インフラ】
 
-- CentOS
-- MySQL
+CentOS・MySQL
 
 【ツール】
 
-- Atom
-- Bitbucket
-- Dropbox(ドキュメント管理)
-- Skype(社内用チャット)
+Atom・Bitbucket・Dropbox(ドキュメント管理)・Skype(社内用チャット)
 
 【プロダクト概要】
 
